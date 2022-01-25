@@ -43,3 +43,5 @@ Parmi les missions que j'ai déjà effectuées, on retrouve
   - Bonnes pratiques de programmation.
   - Faisabilité de projets scientifiques et techniques.
   - Amélioration des performances de codes de calculs existants
+
+N'hésitez pas à me contacter via le [formulaire de contact]({{< relref "#contact" >}}).

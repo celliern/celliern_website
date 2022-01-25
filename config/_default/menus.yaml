@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Travailler avec moi
+  - name: Auto-Entrepreneur
     url: '#hireme'
     weight: 20
   - name: Projets
