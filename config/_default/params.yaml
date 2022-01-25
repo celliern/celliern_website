@@ -56,7 +56,7 @@ address_format: fr-fr
 
 highlight: true
 highlight_languages:
-  - r
+  - python
 math: false
 diagram: false
 privacy_pack: false
