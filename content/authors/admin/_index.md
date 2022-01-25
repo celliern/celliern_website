@@ -1,77 +1,102 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nicolas Cellier
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ingénieur de recherche
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: IMT Mines Albi, Centre génie industriel
+  url: https://cgi.imt-mines-albi.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ici pour résoudre des problèmes et techniques avec un ordinateur.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Support numérique à la recherche
+- Gestion des données (récupération, stockage, analyse et visualisation)
+- Modélisation / Simulation
+- Mécanique de fluides et phénomènes de transfert
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctorat
+    institution: Université de Savoie Mont-Blanc
+    year: 2018
+  - course: Génie des procédés industriels
+    institution: Université de Technologie de Compiègne
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  name: '\@celliernic'
+  link: 'https://twitter.com/celliernic'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  name: Mes projets de développement
+  link: 'https://github.com/'
 - icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  icon_pack: fas
+  name: 'Mon profil Linkedin'
+  link: 'https://www.linkedin.com/in/nicolas-cellier-767a8564/'
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "contact@nicolas-cellier.net"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+lang: fr
+
+user_groups:
+- Researchers
+- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Diplômé d'une thèse et provenant d'une école d'ingénieur (spécialité génie des
+procédés industriel), j'ai développé une série d'expertises autour des outils
+numériques destinés aux scientifiques (voir mes différents projets): outil
+d'aide à la résolution d'EDP, analyse de séries temporelles (particulièrement
+données provenant d'habitats instrumentés), acquisition de données
+expérimentales, visualisation scientifique...
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Si je suis capable de développer avec des outils bas niveau, j'affectionne
+particulièrement le langage Python que je pratique depuis plusieurs années. Je
+développe également en Julia dès lors que la vitesse d'exécution des outils
+devient primordiale.
+
+En plus de mes activités de recherche, j'ai une activité indépendante de
+consultance, sous-traitance et formation sur les outils numériques pour résoudre
+des problématiques scientifiques et d'ingénierie.
+
+Cela concerne en particulier les besoins de modélisation et de simulation (dans
+de nombreux domaines physiques, avec gestion des évolutions dans l'espace et
+dans le temps), ainsi que la gestion des données (à la fois la récupération
+automatisée des données, leur stockage, les analyses statistiques et la
+visualisation).
+
+Ma spécialité principale est la résolution de modèles physiques décrites via des
+équations aux dérivées partielles (EDP), particulièrement celles décrivant les
+écoulements à surface libre (type équation de Saint-Venant) couplé avec du
+transfert de chaleur.
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

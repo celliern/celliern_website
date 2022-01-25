@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Projets
 subtitle: ''
 
 content:
@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: data
+    tag: data
+  - name: simulation
+    tag: simulation
+  - name: bio-informatique
+    tag: bioinfo
+
+# "wrapper", "simulation thermique dynamique", "thermique", "bio-informatique", "analyse de sensibilité", "machine learning", "résolution d'EDP"
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

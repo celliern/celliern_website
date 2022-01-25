@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications récentes
 subtitle: ''
 
 content:
@@ -34,8 +34,9 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+lang: fr
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Découvrez rapidement du contenu pertinent en [filtrant les publications](./publication/).
 {{% /callout %}}

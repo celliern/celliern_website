@@ -9,31 +9,46 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Compétences
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- name: Python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  icon: python
+- name: Julia
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  icon: laptop-code
+- name: Résolution d'EDP
   icon_pack: fas
-  name: Photography
+  icon: superscript
+- name: Extraction de données
+  icon_pack: fas
+  icon: robot
+- name: Analyse de données
+  icon_pack: fas
+  icon: infinity
+- name: Visualisation
+  icon_pack: fas
+  icon: chart-area
+- name: Bio-informatique
+  icon_pack: fas
+  icon: dna
+- name: Formation
+  icon_pack: fas
+  icon: chalkboard-teacher
+- name: Conseil
+  icon_pack: fas
+  icon: lightbulb
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#  description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
