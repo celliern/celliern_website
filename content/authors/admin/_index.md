@@ -46,10 +46,6 @@ social:
   icon_pack: fab
   name: Mes projets de développement
   link: 'https://github.com/'
-- icon: linkedin
-  icon_pack: fas
-  name: 'Mon profil Linkedin'
-  link: 'https://www.linkedin.com/in/nicolas-cellier-767a8564/'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
